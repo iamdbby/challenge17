@@ -1,0 +1,24 @@
+{
+  "name": "challen-17",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdbby/challenge17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamdbby/challenge17/issues"
+  },
+  "homepage": "https://github.com/iamdbby/challenge17#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
